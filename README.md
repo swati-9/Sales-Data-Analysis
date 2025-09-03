@@ -1,6 +1,5 @@
 # Sales-Data-Analysis
 Welcome to my GitHub repository! This repository contains the code and analysis for Sales Data that contains purchase on a products . Feel free to explore the code, visualizations, and insights.
-# Sales Data Analysis
 
 This repository contains code and analysis for sales data. The analysis is divided into several sections, and each section is explained below:
 
